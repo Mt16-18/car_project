@@ -1,2 +1,2 @@
 # car_project
-Voiture qui apprends algo génétiques
+Voiture qui apprend algo génétiques
